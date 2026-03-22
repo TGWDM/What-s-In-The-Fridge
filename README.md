@@ -4,4 +4,14 @@ A mobile app built using the expo framework with react native. App will allow yo
 
 ## App design
 
+The app is separated into 5 different buttons: Home, Expiring, New Item, Recipes & Profile.
+
+### Home
+
+### New Item
+
+### Recipes
+
+### Profile
+
 ## Functionality
