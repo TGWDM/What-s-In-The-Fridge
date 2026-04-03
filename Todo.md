@@ -25,6 +25,7 @@
   - [ ] New Item
   - [ ] Recipes
   - [ ] Profile
+    - [ ] Build out the settings tabs.
 - [ ] Optional: Have the app look like a fridge.
 
 ## Logic
