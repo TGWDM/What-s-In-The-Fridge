@@ -3,18 +3,19 @@ import { useState, useEffect } from 'react';
 
 // Interface for theme colours types
 export interface ThemeColours {
-    // Backgrounds
-    mainBG: string;        // ✅ darkBG is defined here
+    mainBG: string;
+    textColour: string;
 }
 
 const darkColours = {
     mainBG: '#131212',
     darkItemBG: '#777777',
-    darkText: '#ffffff',
+    textColour: '#ffffff',
 };
 
 const LightColours = {
   mainBG: '#ffffff',
+  textColour: '#000000',
 }
 
 // Or even simpler - export as a function

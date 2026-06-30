@@ -6,7 +6,7 @@ const HomeHeader = () => {
     const colours = useTheme();
   return (
     <View style={{backgroundColor: colours.mainBG }}>
-      <Text>HomeHeader</Text>   
+      <Text style={{color:colours.textColour }}>HomeHeader</Text>   
     </View>
   )
 }
